@@ -51,16 +51,13 @@ More projects — including standalone frontend work — are pinned below and li
 
 ---
 
-### 📊 GitHub Activity
+### 🎯 Quick Facts
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BedirhanMehmetSoylu&show_icons=true&hide_border=true&count_private=true&title_color=9747FF&icon_color=70E61C&text_color=333333&bg_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirhanMehmetSoylu&layout=compact&hide_border=true&title_color=9747FF&text_color=333333&bg_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirhanMehmetSoylu&hide_border=true&background=ffffff&ring=9747FF&fire=70E61C&currStreakLabel=9747FF" />
-</div>
+- 🔭 Currently building full-stack projects with **Angular** and **Django REST Framework**
+- 🌱 Deepening my knowledge of testing, CI/CD, and cloud deployment
+- 💼 Actively looking for a Junior Fullstack Developer position
+- 🗣️ Native in German and Turkish, professional working proficiency in English
+- ⚙️ All projects on this profile are self-hosted end to end — domain, frontend, backend, and database — not just tutorials
 
 ---
 
