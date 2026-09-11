@@ -56,7 +56,7 @@ More projects — including standalone frontend work — are pinned below and li
 - 🔭 Currently building full-stack projects with **Angular** and **Django REST Framework**
 - 🌱 Deepening my knowledge of testing, CI/CD, and cloud deployment
 - 💼 Actively looking for a Junior Fullstack Developer position
-- 🗣️ Native in German and Turkish, professional working proficiency in English
+- 🗣️ Native German and Turkish, good working proficiency in English
 - ⚙️ All projects on this profile are self-hosted end to end — domain, frontend, backend, and database — not just tutorials
 
 ---
