@@ -7,7 +7,7 @@
 I'm a career changer who completed an intensive Umschulung (professional retraining program) in fullstack web development. I build clean, well-structured applications end to end — from REST APIs to responsive frontends — and I'm currently looking for my first role as a Junior Fullstack Developer.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bedirhan--soylu.de-9747FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bedirhan-soylu.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bedirhan%20Soylu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedirhan-soylu-65b703367/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bedirhan%20Soylu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bedirhan-soylu/)
 [![Email](https://img.shields.io/badge/Email-bedirhanmehmetsoylu%40gmail.com-70E61C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bedirhanmehmetsoylu@gmail.com)
 
 </div>
@@ -66,7 +66,7 @@ More projects — including standalone frontend work — are pinned below and li
 ### 📫 Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-141D2F?style=for-the-badge&logo=googlechrome&logoColor=70E61C)](https://bedirhan-soylu.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-141D2F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bedirhan-soylu-65b703367/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141D2F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bedirhan-soylu/)
 [![Email](https://img.shields.io/badge/Email-141D2F?style=for-the-badge&logo=gmail&logoColor=70E61C)](mailto:bedirhanmehmetsoylu@gmail.com)
 
 <sub>Thanks for stopping by 👋</sub>
